@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{141:function(e){e.exports=JSON.parse('{"allTagsPath":"/cozie-apple/blog/tags","slug":"research-kit","name":"researchkit","count":2,"permalink":"/cozie-apple/blog/tags/research-kit"}')}}]);
