@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{114:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"research-kit","name":"researchkit","count":2,"permalink":"/blog/tags/research-kit"}')}}]);
