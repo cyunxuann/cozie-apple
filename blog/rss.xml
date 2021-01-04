@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Cozie An iOS application for IEQ and physiological data collection Blog</title>
+        <link>https://cozie-apple.app/blog</link>
+        <description>Cozie An iOS application for IEQ and physiological data collection Blog</description>
+        <lastBuildDate>Mon, 30 Sep 2019 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Update - Beta testing]]></title>
+            <link>https://cozie-apple.app/blog/updateBeta</link>
+            <guid>updateBeta</guid>
+            <pubDate>Mon, 30 Sep 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[We have successfully tested the Alpha version of Cozie and everything is working fine. We are now started testing the Beta version on the Apple Watch 6 and we are planning to open-source the code very soon.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://cozie-apple.app/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to Cozie Apple. I am currently working on a Alpha version of Cozie]]></description>
+        </item>
+    </channel>
+</rss>
