@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{79:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"thermal-comfort","name":"thermal-comfort","count":2,"permalink":"/blog/tags/thermal-comfort"}')}}]);

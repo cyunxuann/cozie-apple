@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{116:function(p){p.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cozie-apple","name":"cozie-apple","count":2,"permalink":"/blog/tags/cozie-apple"}')}}]);
