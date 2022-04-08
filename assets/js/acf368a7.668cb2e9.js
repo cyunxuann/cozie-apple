@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[284],{6856:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"ResearchKit","count":2,"permalink":"/blog/tags/research-kit"}')}}]);

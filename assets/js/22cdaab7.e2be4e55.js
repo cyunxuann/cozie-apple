@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4993],{9806:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"thermal-comfort","count":2,"permalink":"/blog/tags/thermal-comfort"}')}}]);
